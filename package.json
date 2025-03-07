@@ -24,6 +24,12 @@
     "search"
   ],
   "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/mscdex/streamsearch/raw/master/LICENSE"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "http://github.com/mscdex/streamsearch.git"
